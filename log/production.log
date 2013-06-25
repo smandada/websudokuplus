@@ -1,0 +1,220 @@
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-19 03:01:11 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (6.5ms)
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (20.0ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2012-03-19 03:01:12 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.2ms)
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-19 03:02:24 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.2ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2012-03-19 03:02:24 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-19 03:03:12 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (27.5ms)
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (31.3ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2012-03-19 03:03:12 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.3ms)
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.5ms)
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (7.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-03-19 03:03:46 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (5.4ms)
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (20.1ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2012-03-19 03:03:46 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+Rendered /Users/wheelbuster/.rvm/gems/ruby-1.9.2-p180@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.8ms)
+
+
+Started GET "/display?p_app_id=4dd29b6e29678f2c30000306&p_company_id=&type=Users" for 127.0.0.1 at 2012-06-13 17:08:51 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.0ms)
+
+
+Started GET "/display?p_app_id=4dd29b6e29678f2c30000306&p_company_id=&type=Users" for 127.0.0.1 at 2012-06-13 17:09:02 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.6ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.8ms)
+
+
+Started GET "/display?p_app_id=4dd29b6e29678f2c30000306&p_company_id=&type=Engagement" for 127.0.0.1 at 2012-06-13 17:09:06 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.3ms)
+
+
+Started GET "/display?p_app_id=4dd29b6e29678f2c30000306&p_company_id=&type=Social+Mechanics" for 127.0.0.1 at 2012-06-13 17:19:12 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.7ms)
+
+
+Started GET "/display?p_app_id=4dd29b6e29678f2c30000306&p_company_id=&type=Social+Mechanics" for 127.0.0.1 at 2012-06-13 17:19:16 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.4ms)
+
+
+Started GET "/display?p_app_id=4dd29b6e29678f2c30000306&p_company_id=&type=Social+Mechanics" for 127.0.0.1 at 2012-06-13 17:19:19 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.5ms)
+
+
+Started GET "/display?p_app_id=4dd29b6e29678f2c30000306&p_company_id=&type=Retention" for 127.0.0.1 at 2012-06-13 17:19:23 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.5ms)
+
+
+Started GET "/display?p_app_id=4dd29b6e29678f2c30000306&p_company_id=&type=Engagement" for 127.0.0.1 at 2012-06-13 17:19:27 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.3ms)
+
+
+Started GET "/display?p_app_id=4dd29b6e29678f2c30000306&p_company_id=&type=Engagement" for 127.0.0.1 at 2012-06-13 17:19:34 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-13 17:20:40 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.0ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (4.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-13 17:20:42 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.0ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.2ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-13 17:32:19 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.8ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-13 17:32:45 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (5.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2012-06-13 17:39:40 -0700
+
+ActiveRecord::ConnectionNotEstablished (ActiveRecord::ConnectionNotEstablished):
+  
+
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.erb (25.3ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+Rendered /Users/smandada/.rvm/gems/ruby-1.9.2-p318@rorconsole/gems/actionpack-3.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (28.5ms)

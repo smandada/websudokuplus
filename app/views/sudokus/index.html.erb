@@ -1,0 +1,13 @@
+<div class="main_container" style="font-family: Trebuchet MS, Arial; text-align: center;">
+	<h1>Sudoku Plus Validator</h1>
+	<%- flash.each do |name, msg| -%>
+	  <%= content_tag :div, msg, :id => "flash_#{name}" if msg.is_a?(String) %>
+	<%- end -%>
+	
+	<div style="border:1px solid gray;width: 30%; padding: 3em">
+		<%= form_tag check_sudokus_path, multipart: true do %>
+  		<%= file_field_tag :file, :accept => "text/txt" %>
+  		<%= submit_tag "Check" %>
+		<% end %>
+	</div>
+</div>
