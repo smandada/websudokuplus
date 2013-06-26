@@ -28,6 +28,10 @@ class Sudoku
 					raise 'Row/column count is not a square root'
 				end
 
+				check_rows_size_value_limits_and_uniqueness
+
+				check_each_column_uniqueness
+
 				check_sub_grids
 			else
 				raise 'Missing file'
