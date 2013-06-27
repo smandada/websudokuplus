@@ -13,3 +13,7 @@ After cloning the repo:
 3. Install the gems using: bundle install
 4. Run the project using: rails s -p 3000
 5. Access the webpage: http://localhost:3000/
+
+Test:
+-----
+http://staging2.claritics.com:3014/
